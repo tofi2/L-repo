@@ -8,8 +8,5 @@ tekstiä
 jauhenliha
 leipää
 kalaa
-<<<<<<< HEAD
-Testi merge conflict
-=======
-Merge conflict testi
->>>>>>> a7dff546482403ddcccf9d52b31e73e447cbeb93
+Testi merge conflict Testi
+
